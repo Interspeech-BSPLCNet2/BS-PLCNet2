@@ -1,4 +1,4 @@
-# BS-PLCNet
+# BS-PLCNet 2
 
 
 Demo clips for "BS-PLCNet 2: Two-stage Band-split Packet Loss Concealment Network with Intra-model Knowledge Distillation".
